@@ -1,0 +1,55 @@
+{
+    "signup":{
+        "name": "Jefferson Monteiro",
+        "cpf": "70491292082",
+        "email": "jeffmonteiroo@gmail.com",
+        "whatsapp":  "99888899999",
+        "address": {
+               "postalcode": "67113710",
+               "street": "Rua Quatorze A",
+               "number": "9",
+               "details": "rua da igreja",
+               "district": "Coqueiro",
+               "city_state": "Ananindeua/PA"
+        },
+        "delivery_method": "Moto",
+       
+       "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "João Maria",
+        "cpf": "A04912920XX",
+        "email": "testecpfinvalido@gmail.com",
+        "whatsapp":  "99888899999",
+        "address": {
+            "postalcode": "67113710",
+            "street": "Rua Quatorze A",
+           "number": "9",
+           "details": "rua da igreja",
+           "district": "Coqueiro",
+           "city_state": "Ananindeua/PA"
+        },
+        "delivery_method": "Moto",
+       
+       "cnh": "cnh-digital.jpg"
+
+    },
+    "email_invalido":{
+        "name": "João Maria",
+        "cpf": "00205325203",
+        "email": "testecpfinvalido.gmail.com.br",
+        "whatsapp":  "99888899999",
+        "address": {
+            "postalcode": "67113710",
+            "street": "Rua Quatorze A",
+           "number": "9",
+           "details": "rua da igreja",
+           "district": "Coqueiro",
+           "city_state": "Ananindeua/PA"
+        },
+        "delivery_method": "Moto",
+       
+       "cnh": "cnh-digital.jpg"
+
+    }
+}
